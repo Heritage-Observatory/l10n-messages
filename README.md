@@ -5,6 +5,8 @@ Command line utility to generate a JSON expression of the localized names of lan
 
 The [Heritage Observatory](https://www.heobs.org) non-profit organization maintains a list of the localized names of languages existing in the World.
 
+![Sample of the Common Languages List](language-list-sample-20180818.png)
+
 You can download the content of this list from the online sheet [Language ISO Codes](https://docs.google.com/spreadsheets/d/1BnrNVSsFbgSuP_ERyAPEZ-LFpvKYfGlREsInTjJVvr4/edit#gid=263773231). This material is licensed under the terms of the license [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to:
