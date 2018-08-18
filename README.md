@@ -13,6 +13,8 @@ You are free to:
 * **Share** — copy and redistribute the material in any medium or format
 * **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
 
+## Language Lists
+
 The [Heritage Observatory](https://www.heobs.org) maintains two lists:
 
 * a [complete list of the languages](https://docs.google.com/spreadsheets/d/1BnrNVSsFbgSuP_ERyAPEZ-LFpvKYfGlREsInTjJVvr4/edit#gid=263773231) in the World (8182);
@@ -41,11 +43,11 @@ Each list contains the following columns:
 
 * **Denotation Scope**: [range of language varieties](https://iso639-3.sil.org/about/scope), either individual language or macrolanguage, either collection of languages.
 
-  * `I`: distinct *individual* languages, i.e., every distinct human language that has been documented, whether living, extinct, or constructed, and whether its modality is spoken, written or signed;
+  * `I` (`individual`): distinct *individual* languages, i.e., every distinct human language that has been documented, whether living, extinct, or constructed, and whether its modality is spoken, written or signed;
   
-  * `M`: One-to-many grouping of languages also known as *macrolanguages*. They are distinguished from language collections in that the individual languages that correspond to a macrolanguage must be very closely related, and there must be some domain in which only a single language identity is recognized;
+  * `M` (`macrolanguage`): One-to-many grouping of languages also known as *macrolanguages*. They are distinguished from language collections in that the individual languages that correspond to a macrolanguage must be very closely related, and there must be some domain in which only a single language identity is recognized;
   
-  * `S`: other *special* situations.
+  * `S` (`special`): other *special* situations.
 
 * **ISO 639-1:2002**: *codes for the representation of names of languages — Part 1: Alpha-2 code*;
 
